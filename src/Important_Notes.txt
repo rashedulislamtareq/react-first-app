@@ -1,0 +1,22 @@
+npm create vite@latest
+npm install
+npm run dev / npx vite
+npm run build /npx vite build
+
+Extensions:
+    Auto Close Tag
+    Auto Import - ES6, TS, JSX, TSX
+    Auto Rename Tag
+    ESLint
+    npm Intellisense
+    Path Intellisense
+    Postman
+    Prettier
+    Reactjs code snippets
+    Snipped (Ctr + Shift + P Snapshot)
+    Stylelint
+    Tailwind css Intellisense
+    Thunder Client
+    VSCode React Refactor
+    vscode-icons
+
